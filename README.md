@@ -42,6 +42,7 @@ source venv/bin/activate
 ### Install Dependencies
 
 ```bash
+pip install --upgrade pip
 pip install jupyter
 pip install -r requirements.txt
 ```
