@@ -58,3 +58,7 @@ pip install {module 1} {module 2} . . .
 ```bash
 jupyter execute notebook.ipynb
 ```
+
+## Results 
+
+Running this notebook will result in graphs and tables for class and feature distribution, correlations, feature importance, and evalution metrics such as precision, recall, accuracy, and F1 score. This will be PNG and CSV files.
